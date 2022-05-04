@@ -1,0 +1,47 @@
+header {
+  padding: 2rem;
+  text-align: center;
+}
+header h1 {
+  color: #e76f51;
+}
+main h3 {
+  color: #264653;
+  text-align: center;
+  padding: .5rem;
+}
+footer {
+  padding: 3rem;
+  text-align: center;
+}
+footer p {
+  font-size: 1.5rem;
+}
+section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 2rem;
+}
+figure {
+  padding: 1rem;
+  user-select: none;
+}
+figure img {
+  border-radius: 1rem;
+}
+figure:hover img {
+  cursor: pointer;
+}
+figcaption {
+  text-align: center;
+  font-size: 2rem;
+  padding: .5rem 0;
+}
+a {
+  text-decoration: none;
+  color: #e76f51;
+}
+a:hover {
+  color: #e9c46a;
+}
