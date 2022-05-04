@@ -21,7 +21,9 @@ section {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  align-items: center;
   padding: 2rem;
+  min-height: 70vh;
 }
 figure {
   padding: 1rem;

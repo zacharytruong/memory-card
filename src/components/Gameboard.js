@@ -30,7 +30,11 @@ const GameArea = (props) => {
   const area = useRef();
   const card = gsap.utils.selector(area);
   useEffect(() => {
-    gsap.fromTo(card('.card'), { opacity: 0 }, { opacity: 1, stagger: 0.1, duration: .1 });
+    gsap.fromTo(
+      card('.card'),
+      { opacity: 0 },
+      { opacity: 1, stagger: 0.15, duration: 0.25 }
+    );
   }, [card]);
   return (
     <section ref={area}>
