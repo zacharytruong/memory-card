@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.bff4f230.css",
+    "main.js": "/memory-card/static/js/main.b6495f00.js",
+    "static/media/Kujou_Sara.webp": "/memory-card/static/media/Kujou_Sara.eb0defdce2ec65565eb6.webp",
+    "static/media/Arataki_Itto.webp": "/memory-card/static/media/Arataki_Itto.ef374e53c7a11e4948fa.webp",
+    "static/media/Diluc.webp": "/memory-card/static/media/Diluc.7c301622cc381ac6f44e.webp",
+    "static/media/Albedo.webp": "/memory-card/static/media/Albedo.1e01fed7290b0ff3000c.webp",
+    "static/media/Lisa.webp": "/memory-card/static/media/Lisa.e23cfb317c0801acafd5.webp",
+    "static/media/Chongyun.webp": "/memory-card/static/media/Chongyun.c5313b2e5f0c92548bd2.webp",
+    "static/media/Kamisato_Ayato.webp": "/memory-card/static/media/Kamisato_Ayato.263cb21fe23161d3ef50.webp",
+    "static/media/Eula.webp": "/memory-card/static/media/Eula.8591eb45f2d08c380de7.webp",
+    "static/media/Barbara.webp": "/memory-card/static/media/Barbara.30c35a2a78c3da3c60d1.webp",
+    "static/media/Aloy.webp": "/memory-card/static/media/Aloy.7175ab011bba5f1fc1df.webp",
+    "static/media/Hu_Tao.webp": "/memory-card/static/media/Hu_Tao.0c253173505ff4de5a8b.webp",
+    "static/media/Gorou.webp": "/memory-card/static/media/Gorou.f29a0297bbd813af2b53.webp",
+    "static/media/Kaeya.webp": "/memory-card/static/media/Kaeya.16c87d6a60cfc0eae678.webp",
+    "static/media/Kaedehara_Kazuha.webp": "/memory-card/static/media/Kaedehara_Kazuha.3fb13e5989e941e3e013.webp",
+    "static/media/Bennett.webp": "/memory-card/static/media/Bennett.2d77bdd1495fa33d251e.webp",
+    "static/media/Beidou.webp": "/memory-card/static/media/Beidou.6384a7f354f92beb78b1.webp",
+    "static/media/Keqing.webp": "/memory-card/static/media/Keqing.3c0f823efe290fb6e231.webp",
+    "static/media/Amber.webp": "/memory-card/static/media/Amber.cb9c3551a8e793c0d8fa.webp",
+    "static/media/Aether.webp": "/memory-card/static/media/Aether.e2ccfc540d54b9f87102.webp",
+    "static/media/Diona.webp": "/memory-card/static/media/Diona.a2755fa293f5a5b6d977.webp",
+    "static/media/Kamisato_Ayaka.webp": "/memory-card/static/media/Kamisato_Ayaka.8b3e17dc4ab31007cbf4.webp",
+    "static/media/Lumine.webp": "/memory-card/static/media/Lumine.96be5fc1277601361290.webp",
+    "static/media/Jean.webp": "/memory-card/static/media/Jean.f7ca4094719e0e097788.webp",
+    "static/media/Klee.webp": "/memory-card/static/media/Klee.6fde502e451639b62db7.webp",
+    "index.html": "/memory-card/index.html",
+    "main.bff4f230.css.map": "/memory-card/static/css/main.bff4f230.css.map",
+    "main.b6495f00.js.map": "/memory-card/static/js/main.b6495f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff4f230.css",
+    "static/js/main.b6495f00.js"
+  ]
+}
